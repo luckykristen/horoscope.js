@@ -1,0 +1,7 @@
+body {
+    width: 100vw;
+    height: 50vh;
+    background-image: url(sign.jpg);
+    background-size: cover;
+    margin: 0;
+}
